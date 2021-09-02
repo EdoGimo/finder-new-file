@@ -10,7 +10,7 @@ It's icon is designed to fit seamlessly into your Finder's toolbar.
 Forked and edited to include a better fitting image for Big Sur's dark theme.
 
 ## How to Use
-Open "New File.applescript" in Script Editor and change the default value of the file name (set in rows 57 and 61 as <DEFAULT FILE NAME>), then go File->Export and export it as an application (maybe put it as executable only). Copy the obtained "New File.app" to your Applications directory or wherever you like. To give it an icon, open the PNG file included in the repository (or one made by yourself) and go Edit->Copy (copy does not work correctly without opening the image), then open app information (cmd+i), click on the default icon and paste the image (cmd+v). Finally, drag and drop the app to the toolbar in Finder to create a shortcut.
+Open "New File.applescript" in Script Editor and change the default value of the file name (set in rows 57 and 61 as `<DEFAULT FILE NAME>`), then go File->Export and export it as an application (maybe put it as executable only). Copy the obtained "New File.app" to your Applications directory or wherever you like. To give it an icon, open the PNG file included in the repository (or one made by yourself) and go Edit->Copy (copy does not work correctly without opening the image), then open app information (cmd+i), click on the default icon and paste the image (cmd+v). Finally, drag and drop the app to the toolbar in Finder to create a shortcut.
 
 ![](toolbar.gif)
   
